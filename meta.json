@@ -1,0 +1,29 @@
+{
+  "repo": "korg-collection-complete-vst-bundle",
+  "product": "Korg Collection Complete VST Bundle",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://korg-collection.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "korg-collection",
+    "vst-synthesizer",
+    "analog-modeling",
+    "retro-synth",
+    "music-production",
+    "vst-instruments",
+    "synth-collection",
+    "studio-sounds",
+    "korg-setup-failed-fix",
+    "how-to-install-korg-collection",
+    "korg-vst-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 32,
+  "nexpath_slug": "korg-collection",
+  "nexpath_app_name": "Korg Collection"
+}
